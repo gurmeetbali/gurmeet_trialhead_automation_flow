@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539650902978,
+            "changeTime": 1539650902978,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539650902979,
+            "changeTime": 1539650902979,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539654178247,
+            "changeTime": 1539654178247,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539650902980,
+            "changeTime": 1539650902980,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539650978034,
+            "changeTime": 1539650978034,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects\\Opportunity\\fields\\Discount_Percentage__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects\\Opportunity\\fields\\Discount_Percentage__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 730,
+            "modifiedTime": 1539651401022,
+            "changeTime": 1539651401022,
+            "contentHash": "b043300842eba72215ad74783cb40ab2aa2c125f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects\\Opportunity\\fields\\Discounted_Amount__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects\\Opportunity\\fields\\Discounted_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1539651401027,
+            "changeTime": 1539651401027,
+            "contentHash": "8f9b9fd6dd0907dbfc73e168ff9f286bb726f22d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8601,
+            "modifiedTime": 1539651401075,
+            "changeTime": 1539651401075,
+            "contentHash": "fb7f76a2dade2e0a766adc4b6c95bb4c44d522ab",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8504,
+            "modifiedTime": 1539651401102,
+            "changeTime": 1539651401102,
+            "contentHash": "b677408ff100ffc07ce92e73a698cc3f15adfc0e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8641,
+            "modifiedTime": 1539651401131,
+            "changeTime": 1539651401131,
+            "contentHash": "b8731998e1836f85057281fd8fdb3ce2fc32c811",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8593,
+            "modifiedTime": 1539651401154,
+            "changeTime": 1539651401154,
+            "contentHash": "96d8918479fc4b2103e9edc555ec560ba01f4328",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18192,
+            "modifiedTime": 1539651401199,
+            "changeTime": 1539651401199,
+            "contentHash": "be597cd5c00d359623876885fd07d0f5a00efbd2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects\\Opportunity\\fields",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects\\Opportunity\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539651401025,
+            "changeTime": 1539651401025,
+            "contentHash": "1180eadcb6f086499c894c8712984ba875e5dd72",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539651401014,
+            "changeTime": 1539651401014,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539651401013,
+            "changeTime": 1539651401013,
+            "contentHash": "ff325cb88fd1a08d7f1faf3e0187331c07064241",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539651401153,
+            "changeTime": 1539651401153,
+            "contentHash": "c5ade36d37288035b03b0a902c5324ccab128aba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539651401198,
+            "changeTime": 1539651401198,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\permissionsets\\Oppurtunity_Fields.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\permissionsets\\Oppurtunity_Fields.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 896,
+            "modifiedTime": 1539654178258,
+            "changeTime": 1539654178258,
+            "contentHash": "daa90e2a87d31c974cbe425d2b1f6d4351be006c"
+        }
+    ],
+    [
+        "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PROJECTS\\SALESFORCE\\SFDX_2018\\trialhead_automation_flow\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539654178256,
+            "changeTime": 1539654178256,
+            "contentHash": "6dc36cd04be700aacd36240dded2029b01b7bbca"
+        }
+    ]
+]
